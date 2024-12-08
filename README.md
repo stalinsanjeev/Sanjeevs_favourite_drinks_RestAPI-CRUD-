@@ -1,5 +1,5 @@
 
-# Sanjeev's Favorite Drink API 🥤
+# Sanjeev's Favorite Drink API ( REST-CURD) 🥤
 
 
 Hosted at : https://huggingface.co/spaces/SanjeevB1/Drinks
