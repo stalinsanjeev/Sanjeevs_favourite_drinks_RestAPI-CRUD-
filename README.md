@@ -1,6 +1,9 @@
 
 # Sanjeev's Favorite Drink API 🥤
 
+
+Hosted at : https://huggingface.co/spaces/SanjeevB1/Drinks
+
 This is a REST API with full CRUD (Create, Read, Update, Delete) operations that lets you manage a list of drinks. It is hosted on Hugging Face Spaces and serves as a fun way to access and explore my favorite drinks. 🍹
 
 The API includes features such as retrieving the list of all drinks, getting details of a specific drink, adding new drinks, and deleting them. Note that due to the hosting limitations of Hugging Face Spaces, **POST** and **DELETE** operations are currently disabled. 🚫
